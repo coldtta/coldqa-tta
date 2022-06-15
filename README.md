@@ -1,11 +1,11 @@
 # Robust Question Answering against Distribution Shifts with Test-time Adaption: An Empirical Study
 
 
-## Benchmarking results
+## We show the benchmarking results on ColdQA as follows:
 
 Metric: EM/F1
 
-### Benchmarking results on COLDQA for XLMR-base
+### Benchmarking results on ColdQA for XLMR-base
 
 | Model     |     NoiseQA-syn     |   NoiseQA-na    |        XQuAD        |        MLQA         |        MRQA         |         Avg         |
 | :-------- | :-----------------: | :-------------: | :-----------------: | :-----------------: | :-----------------: | :-----------------: |
@@ -20,7 +20,7 @@ Metric: EM/F1
 
 
 
-### Benchmarking results on COLDQA for XLMR-large
+### Benchmarking results on ColdQA for XLMR-large
 
 | Model      |     NoiseQA-syn     |   NoiseQA-na    |      XQuAD      |      MLQA       |        MRQA         |         Avg         |
 | :--------- | :-----------------: | :-------------: | :-------------: | :-------------: | :-----------------: | :-----------------: |
