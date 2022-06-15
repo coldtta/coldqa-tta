@@ -3,7 +3,7 @@
 
 ## We show the benchmarking results on ColdQA as follows:
 
-Metric: EM/F1
+Metric: EM / F1
 
 ### Benchmarking results on ColdQA for XLMR-base
 
